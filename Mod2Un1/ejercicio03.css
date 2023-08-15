@@ -1,0 +1,35 @@
+#contenedor{
+    background-color: white;
+    border:1px solid black;
+	height: 500px;
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align:center;
+    justify-content: space-between;
+    
+
+}
+#caja1{
+    border: 1px solid black;
+	background-color: red;
+    height: 33.3%;
+    width: 100px;
+    text-align:center;
+}
+
+#caja2{
+	border:1px solid black;
+	background-color: blue;
+    height: 33.3%;
+    width: 100px;
+}
+
+#caja3{
+	border:1px solid black;
+	background-color: green;
+    height: 33.3%;
+    width: 100px;
+}
